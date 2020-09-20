@@ -1,0 +1,2 @@
+/Rename files using lowercase_with_underscores
+/Place 'GUI' files into their own folders

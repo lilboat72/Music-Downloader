@@ -1,0 +1,7 @@
+{
+    "Singles":{},
+    "playlists":{},
+    
+    "finishedDownloads":{ "Singles":{},"playlists":{} },
+    "failedDownloads":{ "Singles":{},"playlists":{} }
+}

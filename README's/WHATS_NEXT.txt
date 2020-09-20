@@ -1,0 +1,8 @@
+-/ Automatically scrape playlist thumbnails and ignore thumbnails for singles. The album cover art will be decided by the user.
+
+
+- Work on the recovery mode using recovery.json
+- Find a way to save the state of each page
+- Bind dark mode functionality
+- Make Function queue a background process
+- It'll be cool to have some 'Pull to refresh' on the download pages but instead of refreshing,    it'll sort the list 

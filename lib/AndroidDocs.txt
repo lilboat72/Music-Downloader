@@ -1,0 +1,1 @@
+- Screen Orientation is set to portrait at 'android/app/scr/main/AndroidManifest.xml' at ' android:screenOrientation = "portrait" '
