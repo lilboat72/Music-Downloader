@@ -5,8 +5,8 @@ import 'package:mailer/smtp_server.dart';
 ///
 /// [type] can either be 'Critical' or 'Feedback'
 Future sendIt(String subject, String body, String type) async{
-  String username = 'lolzgoat@gmail.com';//TODO: replace this ASAP
-  String password = '1234developer.com';
+  String username = '';
+  String password = '';
 
   final smtpServer = gmail(username, password);
   // Use the SmtpServer class to configure an SMTP server:
@@ -34,5 +34,5 @@ Future sendIt(String subject, String body, String type) async{
 
 main() async{
   await sendIt('Critical', 'Update time, youtube has changed naming conventions!', 'update');
-  await sendIt('Feedback', 'Love your app Kingsley', 'Suggestion');
+  await sendIt('Feedback', 'Love your app Bro', 'Suggestion');
 }

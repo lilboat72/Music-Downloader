@@ -1,9 +1,8 @@
 -Before launch
-	-According to flask docs it isn't recommended to use 'app.run' on the deployment server, 		 so we need to fix that
 	-Json file must be defaulted
 	-Make a debug(print statements) app copy before any update or release 
 	-Remove print statements
 	-Delete testing files
-	-Fullfill all TODO's and don't forget to remove them
 	-Update github
 	-PLEASE READ THE WHOLE APP THROUGH!!
+	-Fullfill all TODO's and don't forget to remove them

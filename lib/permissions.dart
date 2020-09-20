@@ -26,6 +26,7 @@ class AskPermission{
       await openAppSettings();
     }
   }
+  
   Future storage() async{
     this.status = await Permission.storage.request();
     if(this.status.isUndetermined){

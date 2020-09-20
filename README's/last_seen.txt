@@ -1,5 +1,5 @@
 Date: June 11 2020
-Reason: RedRiver
+Reason: New commercial project called RedRiver
 
 I was last working on homePage.dart. Implementing the overlapping page when onlongPress the 'statistic'. Think of instagran when a post in discovery or explore is held down for some time, it 
 pops up towards you. But i want mine to stick when held down, so that when you stop holding it stays.
