@@ -7,9 +7,9 @@ from email.mime.multipart import MIMEMultipart
 def sendEmail(FeedbackType,body):
     port = 587 # For starttls
     smtp_server = "smtp.gmail.com"
-    password = "1234developer.com" 
-    sender_email = "lolzgoat@gmail.com"
-    receiver_email = "lolzgoat@gmail.com"
+    password = "" 
+    sender_email = ""
+    receiver_email = ""
     message = MIMEMultipart("alternative")
     message["Subject"] = FeedbackType
 
